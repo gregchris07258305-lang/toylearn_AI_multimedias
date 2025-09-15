@@ -69,4 +69,4 @@
 [gemini](https://gemini.google.com/app/c4d426fe73394e4e)
 
 ## speech wave
-[감정 대사](file:///C:/Users/PC/Desktop/%EA%B8%B0%EB%A1%9D%EB%AC%BC/videos_upload/%EB%8F%84%EC%8B%9C%EA%B4%B4%EB%8B%B4/shorts_250915_%EB%8F%84%EC%8B%9C%EA%B4%B4%EB%8B%B4_%EA%B0%80%EC%A2%8C%EC%97%AD/%EB%8F%84%EC%8B%9C%EA%B4%B4%EB%8B%B4_%EA%B0%80%EC%A2%8C%EC%97%AD_%EC%9D%8C%EC%84%B1%ED%8C%8C%EC%9D%BC.wav)
+[감정 대사]()
