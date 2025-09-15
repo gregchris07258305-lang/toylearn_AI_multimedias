@@ -69,4 +69,4 @@
 [gemini](https://gemini.google.com/app/c4d426fe73394e4e)
 
 ## speech wave
-[감정 대사]()
+[감정 대사](quests/quests/30_speech.wav)
