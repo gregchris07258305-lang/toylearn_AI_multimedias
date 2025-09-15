@@ -69,4 +69,4 @@
 [gemini](https://gemini.google.com/app/c4d426fe73394e4e)
 
 ## speech wave
-[감정 대사](https://github.com/gregchris07258305-lang/toylearn_AI_multimedias/blob/main/quests/30_speech.wav)
+[감정 대사](https://github.com/gregchris07258305-lang/toylearn_AI_multimedias/blob/main/quests/30_sound.wav)
