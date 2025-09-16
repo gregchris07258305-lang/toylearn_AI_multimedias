@@ -13,3 +13,12 @@ FILE > NEW > SEQUENCE > Settings > Frame size, horizontal 조정
 
 **1:1** 비율 변경시 세로 길이
 > **1:1 = 1024 : 1024**
+
+## 영상 제작
+```
+1. 화면 오른쪽 상단 **Quick Export 로고 클릭**
+2. 파일 경로 설정
+3. export
+```
+**숏츠 비율** > 9:16
+<br/>**롱폼 비율** > 16:9
