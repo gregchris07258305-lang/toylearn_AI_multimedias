@@ -5,9 +5,12 @@
 <br/>
 
 ## 1) 인간형 실사 동물 캐릭터
-[프테라](https://labs.google/fx/tools/whisk/share/4k3ugtrb10000)<br/>
-[파키페랄로](https://labs.google/fx/tools/whisk/share/429u9mqfd0000
-)
+[인간형 실사 동물 캐릭터- 프테라](https://labs.google/fx/tools/whisk/share/4k3ugtrb10000)<br/>
+[인간형 실사 동물 캐릭터- 파키페랄로](https://labs.google/fx/tools/whisk/share/429u9mqfd0000
+)<br/>
+[배경 - 팟케스트 장소](https://labs.google/fx/tools/whisk/share/7ase4iofp0000)
+
+
 
 ## 2) 신빙성 있는 자료
 [디스맨 포스터](https://github.com/gregchris07258305-lang/toylearn_AI_multimedias/blob/main/quests/50_popcasts/%EC%9D%B4%EB%82%A8%EC%9E%90%EB%A5%BC_%EC%B0%BE%EC%8A%B5%EB%8B%88%EB%8B%A4.jpg)
