@@ -15,6 +15,8 @@
 ## 2) 신빙성 있는 자료
 [1. 디스맨 포스터](https://github.com/gregchris07258305-lang/toylearn_AI_multimedias/blob/main/quests/50_popcasts/%EC%9D%B4%EB%82%A8%EC%9E%90%EB%A5%BC_%EC%B0%BE%EC%8A%B5%EB%8B%88%EB%8B%A4.jpg)
 <br/>[2. 상파울로에 붙여있는 디스맨 포스터](https://github.com/gregchris07258305-lang/toylearn_AI_multimedias/blob/main/quests/50_popcasts/%EC%83%81%ED%8C%8C%EC%9A%B8%EB%A1%9C%EC%97%90%20%EB%94%94%EC%8A%A4%EB%A7%A8.png)
+<br/>[3. 디스맨 실사](https://github.com/gregchris07258305-lang/toylearn_AI_multimedias/blob/main/quests/50_popcasts/%EB%94%94%EC%8A%A4%EB%A7%A8%20%EC%8B%A4%EC%82%AC%ED%99%94.png)
+
 
 ## 3) 스토리 보드
 **Have you seen this man?**
