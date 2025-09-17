@@ -4,7 +4,7 @@
 
 <br/>
 
-## 1) 인간형 실사 동물 캐릭터
+## 1) 제작용 이미지 소스
 [인간형 실사 동물 캐릭터- 프테라](https://labs.google/fx/tools/whisk/share/4k3ugtrb10000)<br/>
 [인간형 실사 동물 캐릭터- 파키페랄로](https://labs.google/fx/tools/whisk/share/429u9mqfd0000
 )<br/>
