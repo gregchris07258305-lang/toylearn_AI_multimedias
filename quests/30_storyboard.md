@@ -67,4 +67,11 @@
 [gemini](https://gemini.google.com/app/c4d426fe73394e4e)
 
 ## speech wave
+<<<<<<< HEAD
+[감정 대사][def]
+=======
 [감정 대사](https://github.com/gregchris07258305-lang/toylearn_AI_multimedias/blob/main/quests/30_sound.wav)
+>>>>>>> 4590bc792f358ca61addd5235d2e19069602b7bb
+
+
+[def]: https://github.com/gregchris07258305-lang/toylearn_AI_multimedias/blob/main/quests/30_speech.wav
